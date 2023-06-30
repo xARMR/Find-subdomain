@@ -21,7 +21,7 @@ Find-Subdomain is a Python script that allows you to retrieve all the paths with
 5. If the website is protected by Cloudflare, manually solve any security challenges presented in your web browser.
 6. The script will then retrieve and display all the paths (URLs) within the website.
 
-## Notes
+## Notes that no one cares about
 - Please ensure that you have the necessary permissions to access and scrape the target website.
 - Use this script responsibly and in accordance with the target website's terms of service.
 - Be aware of any legal or ethical implications when scraping or accessing website content without explicit authorization.
