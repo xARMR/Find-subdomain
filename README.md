@@ -6,6 +6,7 @@ Find-Subdomain is a Python script that allows you to retrieve all the paths with
 - Python 3.x
 - `requests` library: Install with `pip install requests`
 - `beautifulsoup4` library: Install with `pip install beautifulsoup4`
+-  `pyfiglet` library: Install with `pip install pyfiglet`
 
 ## Features
 - Clean design Made by me <3
