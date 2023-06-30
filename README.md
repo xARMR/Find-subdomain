@@ -17,7 +17,7 @@ Find-Subdomain is a Python script that allows you to retrieve all the paths with
 ## Usage
 1. Clone the repository or download the script.
 2. Install the required Python libraries: `pip install -r requirements.txt`.
-3. Run the script: `python find_subdomain.py`.
+3. Run the script: `python find-subdomain.py`.
 4. Enter the website URL when prompted.
 5. If the website is protected by Cloudflare, manually solve any security challenges presented in your web browser.
 6. The script will then retrieve and display all the paths (URLs) within the website.
