@@ -4,7 +4,6 @@ Find-Subdomain is a Python script that allows you to discover subdomains of a gi
 
 ## Features
 
-- Automatically adds "https://" to the input URL if missing.
 - Retrieves and displays all the subdomain links found on the website.
 - Provides a user-friendly command-line interface.
 
